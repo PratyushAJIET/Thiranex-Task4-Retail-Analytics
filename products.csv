@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,UnitPrice_INR
+P001,Headphones,Electronics,1800
+P002,Mouse,Electronics,700
+P003,Power Bank,Electronics,1450
+P004,Speaker,Electronics,2500
+P005,T-Shirt,Fashion,650
+P006,Jeans,Fashion,1600
+P007,Shoes,Fashion,2200
+P008,Jacket,Fashion,2600
+P009,Lamp,Home,900
+P010,Bedsheet,Home,1200
+P011,Storage Box,Home,500
+P012,Kettle,Home,1750
+P013,Shampoo,Beauty,320
+P014,Face Wash,Beauty,460
+P015,Moisturizer,Beauty,680
+P016,Perfume,Beauty,1400
+P017,Yoga Mat,Sports,850
+P018,Football,Sports,1100
+P019,Bottle,Sports,420
+P020,Dumbbells,Sports,1850
